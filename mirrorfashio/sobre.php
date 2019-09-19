@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<title><?php print $sobre_title; ?></title>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
